@@ -16,7 +16,8 @@ By exploring the data, we are trying answer the following questions:
 * What is the combined points distribution?
 * What is the points difference distribution?
 
-The findings were presented in a PowerPoint presentation.
+Images were created using the following Python Libraries: Matplotlib & Seaborn.
+The findings were presented in a PDF Documents.
 
 
 ## Software Used
