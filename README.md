@@ -1,4 +1,4 @@
-# TV, Halftime Shows, And The Big Game - Data Exploration
+# TV, Halftime Shows, And The Big Game - Super Bowl Data Exploration
 
 ## Date Created
 
