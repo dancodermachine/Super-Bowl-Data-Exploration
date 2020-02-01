@@ -17,7 +17,7 @@ By exploring the data, we are trying answer the following questions:
 * What is the points difference distribution?
 
 Images were created using the following Python Libraries: Matplotlib & Seaborn.
-The findings were presented in a PDF Documents.
+The findings were presented in a PDF Document.
 
 
 ## Software Used
